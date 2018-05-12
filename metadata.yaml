@@ -1,5 +1,8 @@
 _repo: The-Biography-of-a-Grizzly_9330
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Seton, Ernest Thompson
@@ -14,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/535
     wikipedia: http://en.wikipedia.org/wiki/Ernest_Thompson_Seton
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/9330#The-Biography-of-a-Grizzly
 gutenberg_issued: '2005-11-01'
 gutenberg_type: Text
 identifiers:
